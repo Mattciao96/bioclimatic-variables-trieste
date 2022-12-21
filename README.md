@@ -1,4 +1,4 @@
-# biovarTrieste
+# bioclimatic-variables-trieste
 
 The 19 bioclimatic layers for the city of Trieste in GeoTIFF format  
 - 100m x 100m c.a. resolution
